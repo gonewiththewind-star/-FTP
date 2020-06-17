@@ -1,0 +1,97 @@
+//本日志文件由Tabbar Add-in(1.14.1463) For Visual C++ 6.0自动生成
+//项目文件：D:\Documents and Settings\zmx\My Documents\study\教学实验\完全版\Ftp\Ftp.dsp
+//如果文件太大可以删除除第一节以外的其他部分
+
+[MAIN]
+nBuildNumber = 13
+
+[Build00000001]
+sStartTime = 2005-05-07 15:25:51
+sCompileUser = zmx
+nErrors = 0
+nWarns = 0
+sEndTime = 2005-05-07 15:25:51
+
+[Build00000002]
+sStartTime = 2005-05-07 15:32:45
+sCompileUser = zmx
+nErrors = 0
+nWarns = 0
+sEndTime = 2005-05-07 15:32:49
+
+[Build00000003]
+sStartTime = 2005-05-07 16:11:11
+sCompileUser = zmx
+nErrors = 0
+nWarns = 0
+sEndTime = 2005-05-07 16:11:16
+
+[Build00000004]
+sStartTime = 2005-05-07 16:11:22
+sCompileUser = zmx
+nErrors = 0
+nWarns = 0
+sEndTime = 2005-05-07 16:11:22
+
+[Build00000005]
+sStartTime = 2005-05-07 16:11:29
+sCompileUser = zmx
+nErrors = 103
+nWarns = 0
+sEndTime = 2005-05-07 16:11:29
+
+[Build00000006]
+sStartTime = 2005-05-07 16:15:41
+sCompileUser = zmx
+nErrors = 103
+nWarns = 0
+sEndTime = 2005-05-07 16:15:41
+
+[Build00000007]
+sStartTime = 2005-05-07 16:15:55
+sCompileUser = zmx
+nErrors = 0
+nWarns = 0
+sEndTime = 2005-05-07 16:15:56
+
+[Build00000008]
+sStartTime = 2005-05-07 16:16:05
+sCompileUser = zmx
+nErrors = 0
+nWarns = 0
+sEndTime = 2005-05-07 16:16:05
+
+[Build00000009]
+sStartTime = 2005-05-07 16:16:25
+sCompileUser = zmx
+nErrors = 0
+nWarns = 0
+sEndTime = 2005-05-07 16:16:25
+
+[Build00000010]
+sStartTime = 2005-05-07 16:30:12
+sCompileUser = zmx
+nErrors = 0
+nWarns = 1
+sEndTime = 2005-05-07 16:30:12
+
+[Build00000011]
+sStartTime = 2005-05-07 16:30:34
+sCompileUser = zmx
+nErrors = 0
+nWarns = 0
+sEndTime = 2005-05-07 16:30:34
+
+[Build00000012]
+sStartTime = 2005-05-07 16:30:57
+sCompileUser = zmx
+nErrors = 0
+nWarns = 1
+sEndTime = 2005-05-07 16:30:57
+
+[Build00000013]
+sStartTime = 2005-05-07 16:52:01
+sCompileUser = zmx
+nErrors = 0
+nWarns = 0
+sEndTime = 2005-05-07 16:52:02
